@@ -18,6 +18,7 @@ Sky Fleet is designed to manage various aspects of airline operations, including
 * Java Development Kit (JDK) 8 or higher
 * MySQL Server
 * IDE such as IntelliJ IDEA or Eclipse
+* Java MySQL Connector
 ### Steps
 * Clone the Repository: 
 
