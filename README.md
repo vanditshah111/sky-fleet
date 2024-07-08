@@ -28,3 +28,21 @@ git clone https://github.com/vanditshah111/sky-fleet.git
 ```
 cd sky-fleet
 ```
+* Set Up the Database:
+Create a new database in MySQL.Import the database schema from the Database/Project.sql file.You have been provided with dummy objects as an example in their respective txt files in Database/.
+* Configure Database Connection:
+Update the database configuration in the Classes/Main.java file with your MySQL credentials.
+* Build the Project:
+Open the project in your IDE.
+Build the project to resolve dependencies.
+* Run the Application:
+Execute the Main class to start the application.
+## Usage
+* Login:
+Use your credentials to log in.
+* Navigate the Interface:
+Use the menu options to access different functionalities like crew management, fleet adjustments, and flight scheduling.
+* Manage Data:
+Add, update, and delete records as per your role and permissions.
+## License
+This project is licensed under the MIT License.
