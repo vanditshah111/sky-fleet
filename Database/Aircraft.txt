@@ -1,0 +1,10 @@
+"Boeing 747", 416, 7240, "Boeing", 350000000
+"Airbus A320", 150, 3500, "Airbus", 110000000
+"Embraer E190", 114, 4000, "Embraer", 45000000
+"Boeing 737", 170, 5500, "Boeing", 89000000
+"Airbus A330", 290, 13400, "Airbus", 240000000
+"Cessna Citation X", 100, 3470, "Textron Aviation", 22000000
+"Bombardier Challenger 350", 150, 3300, "Bombardier Aerospace", 26000000
+"Embraer Phenom 100", 100, 1178, "Embraer", 4500000
+"Bombardier Global 6000", 190, 6900, "Bombardier Aerospace", 57000000
+"Airbus A340", 270, 13400, "Airbus", 200000000
